@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "datgeladmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Abc1234567890!"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "dg99"
     }
   }
 }
